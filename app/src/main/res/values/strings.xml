@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RememberThat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="LoginTitle">L O G I N</string>
+    <string name="ul_string_here"> <u> Forgot? </u></string>
+    <string name="NewUserText"><u> New User? Register Here</u></string>
+
+    <string name="LoginButton">Login</string>
+
+</resources>
+
